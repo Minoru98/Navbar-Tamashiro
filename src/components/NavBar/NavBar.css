@@ -1,0 +1,34 @@
+.container-logo img {
+    float: left;
+    width: 100%;
+}
+
+.container-logo {
+    float: left;
+    width: 60px;
+}
+
+header > div {
+    width: 100%;
+    box-sizing: border-box;
+    justify-content: space-around;
+}
+
+.main-navbar {
+    background: red;
+}
+
+ul.navbar-list {
+    list-style: none;
+    display: flex;
+}
+
+input[type="search"] {
+    width: 100%;
+    padding: 5px;
+    margin: auto;
+    background: lightblue;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+}
